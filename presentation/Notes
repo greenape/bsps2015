@@ -1,0 +1,20 @@
+Present game -> dp -> abm as a logical process
+
+Simplest possible game -> more complex game -> too complex to analyse game -> simplify to DP -> but population, info sharing -> ABM
+
+Presentation
+
+15 minutes, so... 12 slides
+
+Motivation 1
+
+Model 2
+
+Data
+	Parameters x2
+	Validation
+Results
+	Sensitivity
+	Fitting
+	Perturbation
+References

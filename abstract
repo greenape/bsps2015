@@ -1,0 +1,8 @@
+The Risky Business of Asking for Help: An Agent Based Model of Unmet Need
+
+In this work we present an agent based model of elderly care were populations of decision theoretic agents play a game, reflecting the interwoven supply and demand side decision making processes that govern whether older adults seek, and receive support in their activities of daily living.
+The model draws together longitudinal survey (ELSA) data to provide base rates of need for support, care costs from local authority activity reports (HSCIC PSSE/PSSA), and attitude surveys (ONS OPN, EuroBarometer, and ESS) to produce distributions of  synthetic agent psychologies. We then calibrate the model against reported rates of unmet need from the ELSA dataset, by building statistical emulators of the simulation model to rapidly explore the free parameter space. 
+
+The simulation results suggest that the care system is most sensitive to the balance between the perceived costs of failing to provide care where needed, and the rewards of delivering appropriate support. Further to this, the model indicates that the real system lies near to collapse, with relatively small decreases in perceived costs and rewards leading to breakdown.
+
+Potential applications for the simulation itself are in the arena of policy development, by suggesting possible implications for interventions, for example the impact of increases in the cost of care provision, or of campaigns targeting the the perception of stigma attached to age. In addition, the parameterisation and calibration of the model demonstrate the possibilities of simulation as a method for integrating disparate data sources.
