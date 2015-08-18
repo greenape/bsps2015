@@ -7,11 +7,17 @@ Presentation
 15 minutes, so... 12 slides
 
 Motivation 1
-
+	Domain: why doesn't everybody get help? What should we do about that?
+	Methods: can ABM be an effective way to merge data sources?
 Model 2
-
+	ARA
+		Interested in the *process* not just the outcomes, so gonna build an ABM
+	Graph
 Data
-	Parameters x2
+	* Want to as far as possible peg the model to reality
+	Parameters
+		Sources
+		Methods
 	Validation
 Results
 	Sensitivity
